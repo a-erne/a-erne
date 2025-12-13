@@ -8,4 +8,4 @@ AI/ML Engineer specializing in the design, evaluation, and deyploment of languag
 - ML pipelines
 - Production AI
 
-**[Portfolio Link]()**
+**[Portfolio Link](https://a-erne.github.io/)**
